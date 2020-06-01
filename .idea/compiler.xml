@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dependency-inversion" />
+        <module name="singleton" />
+        <module name="composite-reuse" />
+        <module name="leeb-substitution" />
+        <module name="single-principle" />
+        <module name="factory" />
+        <module name="open-close" />
+        <module name="dimit" />
+        <module name="inteface-isolation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="decorator" target="1.8" />
+      <module name="observer" target="1.8" />
+      <module name="startegy" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="composite-reuse" options="-parameters" />
+      <module name="decorator" options="-parameters" />
+      <module name="dependency-inversion" options="-parameters" />
+      <module name="dimit" options="-parameters" />
+      <module name="factory" options="-parameters" />
+      <module name="inteface-isolation" options="-parameters" />
+      <module name="leeb-substitution" options="-parameters" />
+      <module name="observer" options="-parameters" />
+      <module name="open-close" options="-parameters" />
+      <module name="single-principle" options="-parameters" />
+      <module name="singleton" options="-parameters" />
+      <module name="startegy" options="-parameters" />
+    </option>
+  </component>
+</project>
