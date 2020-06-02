@@ -13,6 +13,7 @@
         <module>dimit</module>
         <module>composite-reuse</module>
         <module>factory</module>
+        <module>prototype-mode</module>
     </modules>
 
     <parent>

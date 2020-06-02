@@ -10,6 +10,7 @@
         <module name="singleton" />
         <module name="composite-reuse" />
         <module name="leeb-substitution" />
+        <module name="prototype-mode" />
         <module name="single-principle" />
         <module name="factory" />
         <module name="open-close" />
@@ -34,6 +35,7 @@
       <module name="leeb-substitution" options="-parameters" />
       <module name="observer" options="-parameters" />
       <module name="open-close" options="-parameters" />
+      <module name="prototype-mode" options="-parameters" />
       <module name="single-principle" options="-parameters" />
       <module name="singleton" options="-parameters" />
       <module name="startegy" options="-parameters" />

@@ -8,6 +8,7 @@
     <file url="file://$PROJECT_DIR$/inteface-isolation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/leeb-substitution/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/open-close/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prototype-mode/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/single-principle/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/singleton/src/main/java" charset="UTF-8" />
   </component>
