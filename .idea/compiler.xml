@@ -11,6 +11,7 @@
         <module name="composite-reuse" />
         <module name="leeb-substitution" />
         <module name="prototype-mode" />
+        <module name="builder" />
         <module name="single-principle" />
         <module name="factory" />
         <module name="open-close" />
@@ -26,6 +27,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="builder" options="-parameters" />
       <module name="composite-reuse" options="-parameters" />
       <module name="decorator" options="-parameters" />
       <module name="dependency-inversion" options="-parameters" />
