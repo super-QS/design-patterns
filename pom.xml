@@ -15,6 +15,7 @@
         <module>factory</module>
         <module>prototype-mode</module>
         <module>builder</module>
+        <module>adapter</module>
     </modules>
 
     <parent>

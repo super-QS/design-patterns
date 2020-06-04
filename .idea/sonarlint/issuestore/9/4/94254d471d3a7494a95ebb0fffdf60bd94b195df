@@ -1,0 +1,19 @@
+
+>
+java:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+q
+java:S14887"[Immediately return this expression instead of assigning it to the temporary variable "str".(§›çØ
+a
+java:S1128"FRemove this unused import 'com.design.simplefactory1.make.CheckPizza'.(¼·µÃúÿÿÿÿ
+[
+java:S1128"FRemove this unused import 'com.design.simplefactory1.make.GreekPizza'.(ƒñş>
+j
+java:S1450"TRemove the "pizza" field and declare it as a local variable in the relevant methods.(á÷Áº
+w
+java:S1450"\Remove the "simpleFactory" field and declare it as a local variable in the relevant methods.(³ààãşÿÿÿÿ
+T
+java:S1117""9Rename "pizza" which hides the field declared at line 22.(ıâÃúÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(•ÈÕÄ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(›Ÿ€Æÿÿÿÿÿ
+=
+java:S14814"'Remove this unused "in" local variable.(Ö•÷Î

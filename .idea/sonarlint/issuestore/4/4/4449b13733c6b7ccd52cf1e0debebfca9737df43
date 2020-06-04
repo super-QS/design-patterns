@@ -1,0 +1,9 @@
+
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(²ñµ¼üÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(œñµ÷ùÿÿÿÿ
+D
+java:S2440")Remove this instantiation of "Singleton".(œñµ÷ùÿÿÿÿ
+G
+java:S1068",Remove this unused "instance" private field.(…µËÍþÿÿÿÿ

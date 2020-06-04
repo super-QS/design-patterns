@@ -1,0 +1,11 @@
+
+>
+java:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+q
+java:S1488,"[Immediately return this expression instead of assigning it to the temporary variable "str".(§›çØ
+t
+java:S1450"YRemove the "absFactory" field and declare it as a local variable in the relevant methods.(¹›ƒøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•ÈÕÄ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(›Ÿ€Æÿÿÿÿÿ
+I
+java:S1068".Remove this unused "absFactory" private field.(¹›ƒøÿÿÿÿ

@@ -1,0 +1,15 @@
+
+>
+java:S11483"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+>
+java:S1148Q"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+>
+java:S1148b"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+u
+java:S1104"_Make deepCloneableTarget a static final constant or non-public and provide accessors if needed.(ÊÓŠÁ
+{
+java:S1488N"eImmediately return this expression instead of assigning it to the temporary variable "deepProtoType".(íÈ›ì
+h
+java:S2975)"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æð
+E
+java:S2093E"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

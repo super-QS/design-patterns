@@ -1,0 +1,9 @@
+
+>
+java:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+q
+java:S14883"[Immediately return this expression instead of assigning it to the temporary variable "str".(§›çØ
+T
+java:S1117"9Rename "pizza" which hides the field declared at line 13.(ıâÃúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•ÈÕÄ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(›Ÿ€Æÿÿÿÿÿ

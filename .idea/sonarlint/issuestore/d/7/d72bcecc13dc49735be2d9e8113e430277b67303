@@ -1,0 +1,5 @@
+
+W
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ÒÒ‚ 
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(˜Ûûœûÿÿÿÿ

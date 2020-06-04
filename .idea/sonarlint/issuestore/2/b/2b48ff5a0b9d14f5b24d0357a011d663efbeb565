@@ -1,0 +1,10 @@
+
+>
+java:S1148/"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+b
+java:S2259"GA "NullPointerException" could be thrown; "orderType" is nullable here.(—–›üüÿÿÿÿ
+q
+java:S1488,"[Immediately return this expression instead of assigning it to the temporary variable "str".(§›çØ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(›Ÿ€Æÿÿÿÿÿ
+=
+java:S1481)"'Remove this unused "in" local variable.(Ö•÷Î
