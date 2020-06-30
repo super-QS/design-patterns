@@ -1,8 +1,8 @@
-package com.design.radition.order;
+package com.design.tradition.order;
 
-import com.design.radition.make.CheckPizza;
-import com.design.radition.make.GreekPizza;
-import com.design.radition.make.Pizza;
+import com.design.tradition.make.CheckPizza;
+import com.design.tradition.make.GreekPizza;
+import com.design.tradition.make.Pizza;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.design.radition.order;
+package com.design.tradition.order;
 
 /**
  * 相当于客户端-发起 Pizza 订购

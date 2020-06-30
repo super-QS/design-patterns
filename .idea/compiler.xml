@@ -6,29 +6,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dependency-inversion" />
-        <module name="singleton" />
-        <module name="composite-reuse" />
-        <module name="leeb-substitution" />
-        <module name="prototype-mode" />
+        <module name="bridging" />
         <module name="dimit" />
+        <module name="decorator" />
+        <module name="leeb-substitution" />
+        <module name="composite-reuse" />
         <module name="builder" />
         <module name="single-principle" />
-        <module name="factory" />
         <module name="open-close" />
-        <module name="adapter" />
+        <module name="dependency-inversion" />
+        <module name="prototype-mode" />
+        <module name="factory" />
         <module name="inteface-isolation" />
+        <module name="adapter" />
+        <module name="singleton" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="decorator" target="1.8" />
       <module name="observer" target="1.8" />
+      <module name="open-close (1)" target="1.8" />
       <module name="startegy" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="adapter" options="-parameters" />
+      <module name="bridging" options="-parameters" />
       <module name="builder" options="-parameters" />
       <module name="composite-reuse" options="-parameters" />
       <module name="decorator" options="-parameters" />
@@ -39,6 +42,7 @@
       <module name="leeb-substitution" options="-parameters" />
       <module name="observer" options="-parameters" />
       <module name="open-close" options="-parameters" />
+      <module name="open-close (1)" options="-parameters" />
       <module name="prototype-mode" options="-parameters" />
       <module name="single-principle" options="-parameters" />
       <module name="singleton" options="-parameters" />

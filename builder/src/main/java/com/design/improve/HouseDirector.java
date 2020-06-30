@@ -16,7 +16,6 @@ public class HouseDirector {
     }
 
     public House constructHouse() {
-        StringBuilder stringBuilder = new StringBuilder("hello");
         houseBuilder.buildBasic();
         houseBuilder.buildWalls();
         houseBuilder.roofed();

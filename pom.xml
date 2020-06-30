@@ -16,6 +16,8 @@
         <module>prototype-mode</module>
         <module>builder</module>
         <module>adapter</module>
+        <module>bridging</module>
+        <module>decorator</module>
     </modules>
 
     <parent>
