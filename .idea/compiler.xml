@@ -8,11 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bridging" />
         <module name="dimit" />
-        <module name="decorator" />
         <module name="leeb-substitution" />
         <module name="composite-reuse" />
         <module name="builder" />
         <module name="single-principle" />
+        <module name="decorator-pattern" />
         <module name="open-close" />
         <module name="dependency-inversion" />
         <module name="prototype-mode" />
@@ -23,6 +23,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="decorator" target="1.8" />
       <module name="observer" target="1.8" />
       <module name="open-close (1)" target="1.8" />
       <module name="startegy" target="1.8" />
@@ -35,6 +36,7 @@
       <module name="builder" options="-parameters" />
       <module name="composite-reuse" options="-parameters" />
       <module name="decorator" options="-parameters" />
+      <module name="decorator-pattern" options="-parameters" />
       <module name="dependency-inversion" options="-parameters" />
       <module name="dimit" options="-parameters" />
       <module name="factory" options="-parameters" />
